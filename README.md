@@ -16,6 +16,7 @@ The noise is added to the signal. Library numpy has such a convenient way to acc
 As showed in figure 1, the Original + Noise shows the combined signal of two input signals.
 
 Figure 1:
+
 ![alt text](https://github.com/H40Q1/EC601MiniPro3/blob/master/figure1.png)
 
 ## Filtering two signals
