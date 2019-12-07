@@ -1,4 +1,4 @@
-# EC601MiniPro3: Noise Separation and Visualization with python
+# DSP visualization: Noise Separation with python
 Mini Porject 3 of EC601
 Haoqi Gu
 
