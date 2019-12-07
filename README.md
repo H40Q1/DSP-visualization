@@ -36,5 +36,6 @@ Now we use IFFT, the inverse of the FFT. This will take our signal and convert i
 
 
 Figure 3:
+
 ![alt text](https://github.com/H40Q1/EC601MiniPro3/blob/master/figure3.png)
 
