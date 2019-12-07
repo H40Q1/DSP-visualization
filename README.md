@@ -1,8 +1,8 @@
-# EC601MiniPro3
+# EC601MiniPro3: Noise Separation and Visualization with python
 Mini Porject 3 of EC601
 Haoqi Gu
 
-## Noise separation visualization with special python libraries
+## Introduction
 In this mini project, a python file used to visualize DSP is represented. It firstly generated a 1000Hz signal and a 50Hz noise, and combined them together into a signal. Then it uses filtering and IFFT to find and convert out the original signal. 
 
 ## Generate wave and add noise to it
